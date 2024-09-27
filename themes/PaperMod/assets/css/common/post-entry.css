@@ -24,6 +24,7 @@
     margin: 14px 0;
     font-size: 16px;
     -webkit-line-clamp: 3;
+    line-height: 1.8;
     text-align: justify;
 }
 
@@ -130,6 +131,14 @@
 
 .neu-brand {
     background: #d41a2b;
+}
+
+.swu-brand{
+    background-color: #334875;
+}
+
+.jhu-brand{
+    background-color: #2C678F;
 }
 
 .greenstand-brand {
